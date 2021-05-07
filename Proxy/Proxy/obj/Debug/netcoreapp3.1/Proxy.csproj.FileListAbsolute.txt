@@ -1,0 +1,13 @@
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache

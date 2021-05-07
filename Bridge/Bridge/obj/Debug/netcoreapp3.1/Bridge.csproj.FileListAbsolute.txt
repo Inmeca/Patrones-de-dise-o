@@ -1,0 +1,13 @@
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.csprojAssemblyReference.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CoreCompileInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache

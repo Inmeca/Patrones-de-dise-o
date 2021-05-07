@@ -1,0 +1,13 @@
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Memento\Memento\bin\Debug\netcoreapp3.1\Memento.exe
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Memento\Memento\bin\Debug\netcoreapp3.1\Memento.deps.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Memento\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Memento\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.dev.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Memento\Memento\bin\Debug\netcoreapp3.1\Memento.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Memento\Memento\bin\Debug\netcoreapp3.1\Memento.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.csprojAssemblyReference.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfoInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfo.cs
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.csproj.CoreCompileInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.genruntimeconfig.cache

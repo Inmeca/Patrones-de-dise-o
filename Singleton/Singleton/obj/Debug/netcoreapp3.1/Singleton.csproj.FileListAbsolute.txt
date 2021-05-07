@@ -1,0 +1,13 @@
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache

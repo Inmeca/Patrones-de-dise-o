@@ -1,0 +1,13 @@
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache

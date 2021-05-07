@@ -1,0 +1,13 @@
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache

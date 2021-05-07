@@ -1,0 +1,13 @@
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.exe
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.deps.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.dev.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.csprojAssemblyReference.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfoInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfo.cs
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.CoreCompileInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.genruntimeconfig.cache

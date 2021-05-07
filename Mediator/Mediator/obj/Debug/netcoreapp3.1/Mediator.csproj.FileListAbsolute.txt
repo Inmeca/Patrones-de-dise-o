@@ -1,0 +1,13 @@
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.exe
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.deps.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.dev.json
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.csprojAssemblyReference.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfoInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfo.cs
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.csproj.CoreCompileInputs.cache
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.dll
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.pdb
+E:\Ingrid\AXITY\Capacitacion\Patrones de Diseño\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.genruntimeconfig.cache
